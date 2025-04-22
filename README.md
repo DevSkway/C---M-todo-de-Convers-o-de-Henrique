@@ -5,7 +5,7 @@ Imagine em um número que, a cada caractere de um número binário, é multiplic
 
 ## Representação mais simples:
 
-$$
+$$  
 X = Número atual  
   
 0 — X * 2  
