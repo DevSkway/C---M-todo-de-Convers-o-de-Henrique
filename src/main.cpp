@@ -1,4 +1,4 @@
-// Método de Henrique
+// Henrique's Method
 
 #include <iostream>
 #include <regex>
