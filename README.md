@@ -1,4 +1,6 @@
-Método de conversão de Henrique (Binário -> Decimal)
+Método de Conversão de Henrique
+
+O Método de Conversão de Henrique é uma forma simplificada do Algoritmo de Horner. Aqui está uma representação simples de como utilizá-lo:
 
 X: Número atual
 
