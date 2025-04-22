@@ -1,7 +1,7 @@
 # Método de Henrique
 
 **O Método de Henrique é uma forma simplificada do Algoritmo de Horner.**
-Imagine em um número que, a cada caractere de um número binário, é multiplicado por dois, e, caso o caractere seja 1, o resultado da multiplicação é somado a 1. Denominado como **Método de Henrique**, esse é um **método de conversão Binário - decimal extremamente simples e válido para todos os casos.**
+Imagine um número decimal em que, a cada caractere de outro número, dessa vez binário, é multiplicado por dois, e, caso o caractere seja 1, o resultado da multiplicação é somado a 1. Denominado como **Método de Henrique**, esse é um **método de conversão binário para decimal extremamente simples e válido para todos os casos.**
 
 ## Representação mais simples:
 
