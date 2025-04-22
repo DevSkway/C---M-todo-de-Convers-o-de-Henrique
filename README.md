@@ -7,7 +7,7 @@ Imagine em um número que, a cada caractere de um número binário, é multiplic
 
 $$
 X = Número atual  
-
+  
 0 — X * 2  
 1 — X * 2 + 1  
 $$
