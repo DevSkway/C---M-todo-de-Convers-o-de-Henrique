@@ -3,7 +3,7 @@
 O Método de Henrique é uma forma simplificada do Algoritmo de Horner.
 Imagine em um número que, a cada caractere de um número binário, é multiplicado por dois, e, caso o caractere seja 1, o resultado da multiplicação é somado a 1. Denominado como **Método de Henrique**, esse é um método de conversão extremamente simples e válido para todos os casos.
 
-# Representação mais simples:
+## Representação mais simples:
 
 ```
 X: Número atual
@@ -12,7 +12,7 @@ X: Número atual
 1 = X * 2 + 1
 ```
 
-# Exemplo com 1011011:
+## Exemplo com 1011011:
 
 1: 0 * 2 + 1 = 1
 0: 1 * 2 = 2
